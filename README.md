@@ -1,1 +1,1 @@
-# nanoGPT
+# micrograd
