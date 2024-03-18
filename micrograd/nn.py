@@ -1,5 +1,6 @@
+import os
 import sys
-sys.path.append('E:\\micrograd\\micrograd')
+sys.path.insert(0, '/e/micrograd')
 import random
 from micrograd.engine import Value
 
